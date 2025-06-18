@@ -75,7 +75,6 @@ Your default browser will open the app automatically.
 Classification-with-Streamlit-Web-App/
 ├── app.py             # Main Streamlit application
 ├── README.md          # Project documentation
-└── requirements.txt   # (Optional) Dependencies file
 ```
 
 ---
